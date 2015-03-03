@@ -7,9 +7,9 @@
 ==========================================
 
 
-我的博客
 
-自己动手学编程 http://www.diyprogramming.com
+
+自己动手学编程 http://www.diyprogramming.net
 
 
 
